@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Saif-Eddine El Khantache Banner" width="100%" />
+<img src="banner.jpg" alt="Saif-Eddine El Khantache Banner" width="100%" height="500px" />
 
 # 👋 Saif-Eddine El Khantache  
 ### Ingénieur Informatique · IA · DevOps · Full Stack
