@@ -27,21 +27,55 @@ J’aime concevoir des **systèmes intelligents, robustes et scalables**, allant
 
 ## 🛠️ Stack technique
 
-### 👨‍💻 Développement
+### 👨‍💻 Développement & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,flask,fastapi" />
 </p>
 
-### 🤖 IA & Data
-- Deep Learning (PyTorch)
-- NLP & LLM
-- Graph Data Science (Neo4j)
-- Data Visualization
+- **Python**, **Java**, **C++**, **JavaScript**
+- Frameworks backend : **Flask**, **FastAPI**, **JEE**
+- Frontend : **React.js**
+- Scripting & systèmes : **Shell (Bash)**
 
-### ☁️ DevOps & Cloud
+---
+
+### 🤖 Intelligence Artificielle & Data
+- **Deep Learning** : PyTorch, TensorFlow  
+- **NLP & LLM** : BERT, modèles génératifs, fine-tuning  
+- **GANs** : architectures génératives & stabilisation  
+- **Graph Data Science** : Neo4j, PageRank, Louvain  
+- **Machine Learning** : régression, classification  
+- **Data Visualization** : Matplotlib, Seaborn  
+
+---
+
+### 🗄️ Bases de données & Data
+- **PostgreSQL**
+- **Neo4j (Graph DB)**
+- **NoSQL**
+- Modélisation & analyse de données
+
+---
+
+### ☁️ DevOps, Cloud & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,aws,git,linux" />
 </p>
+
+- **Containerisation** : Docker  
+- **Orchestration** : Kubernetes  
+- **Infrastructure as Code** : Terraform, Ansible  
+- **CI/CD** : Jenkins  
+- **Cloud** : AWS (EC2, S3, IAM)  
+- **Versioning & OS** : Git, Linux  
+
+---
+
+### 📊 Méthodes & Gestion de projet
+- **Agile / Scrum**
+- **Jira**
+- Travail en sprints, daily meetings, delivery continu
+
 
 ---
 
